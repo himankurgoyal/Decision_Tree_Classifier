@@ -1,7 +1,7 @@
 # Decision_Tree_Classifier
 Task 3: Exploring Decision Tree Algorithm
 
-1) From the given iris Dataset, I  have cfeated the Decision Tree Classifier and Visualize it graphically. 
+1) From the given iris Dataset, I  have created the Decision Tree Classifier and Visualize it graphically. 
 2) Starting from importing the libraries followed by Data Exploration and Data Visualization. 
 3) The very next step is to do a little of feature engineering. 
 4) The target column is of Object type(categorical values), so i just converted them to integer type using apply function on the column "Species". 
